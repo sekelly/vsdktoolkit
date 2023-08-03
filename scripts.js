@@ -1,7 +1,7 @@
 let signatureEndpoint = "https://l1sgnx6bek.execute-api.us-east-1.amazonaws.com/latest";
 let sessionName = "toolkit";
 let sessionPasscode = "123";
-let userName = "Participant" + Math.floor(Math.random() * 100);
+let userName = "Zoomie" + Math.floor(Math.random() * 100);
 let role = 1;
 
 let UIToolkitConfig;
